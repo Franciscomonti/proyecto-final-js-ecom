@@ -184,7 +184,6 @@ function crearCardCarrito(prodCarrito) {
             </div>
 
             <div class="modal-card-accion">
-                <h2 class="btn-agregar">Comprar</h2>
                 <h2 class="btn-eliminar" onclick="eliminarCarrito(${prodCarrito.producto.id})">Eliminar de carrito</h2>
             </div>
         </div>
