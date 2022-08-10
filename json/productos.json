@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zapatilla Nike",
+        "codigo": "MD500",
+        "tipo": "calzado",
+        "precio": 25000.00,
+        "imagen": "nikeportada2.png" 
+    },
+
+    {
+        "id": 2,
+        "nombre": "Remera Manga Larga",
+        "codigo": "RM5400",
+        "tipo": "remera",
+        "precio": 3000.00,
+        "imagen": "remera-blanca-hombre-ml.jpg"
+    },
+    
+    {
+        "id": 3,
+        "nombre": "Buzo Negro Capucha",
+        "codigo": "BC300",
+        "tipo": "buzo",
+        "precio": 5000.00,
+        "imagen": "buzo-negro-capucha.webp"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Pantalon Cuadrille",
+        "codigo": "PC6000",
+        "tipo": "pantalon",
+        "precio": 3000.00,
+        "imagen": "pantalon rojo.webp"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Zapatilla Adidas MD",
+        "codigo": "AMD60",
+        "tipo": "calzado",
+        "precio": 21000.00,
+        "imagen": "adidas md.png"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Remera blanca imagen",
+        "codigo": "RBI300",
+        "tipo": "remera",
+        "precio": 2500.00,
+        "imagen": "remera blanca img.png"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Zapatilla Nike Air",
+        "codigo": "NA400",
+        "tipo": "calzado",
+        "precio": 23000.00,
+        "imagen": "nike air.png"
+    },
+
+    {
+        "id": 8,
+        "nombre": "Remera Manga Corta",
+        "codigo": "RMC570",
+        "tipo": "remera",
+        "precio": 2000.00,
+        "imagen": "remera-negra-hombre.webp"
+    },
+
+    {
+        "id": 9,
+        "nombre": "Buzo Negro",
+        "codigo": "B300",
+        "tipo": "buzo",
+        "precio": 4500.00,
+        "imagen": "buzo-negro-hombre.webp"
+    },
+
+    {
+        "id": 10,
+        "nombre": "Pantalon Pampero",
+        "codigo": "PP600",
+        "tipo": "pantalon",
+        "precio": 5000.00,
+        "imagen": "pantalon pampero.webp"
+    },
+
+    {
+        "id": 11,
+        "nombre": "Buzo Blanco Capucha",
+        "codigo": "BCB500",
+        "tipo": "buzo",
+        "precio": 5200.00,
+        "imagen": "buzo-blanco-capucha.jpg"
+    },
+
+    {
+        "id": 12,
+        "nombre": "Chomba Hombre",
+        "codigo": "CH500",
+        "tipo": "remera",
+        "precio": 4900.00,
+        "imagen": "chomba-blanca-hombre.jpg"
+    }
+]
+
